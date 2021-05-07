@@ -3,4 +3,5 @@
 
 Node.js : https://nodejs.org/en/
 
+To run this online, just [click here](https://replit.com/@luke2m/kahoot-spammer), press play, and follow the prompts.
 
