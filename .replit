@@ -1,0 +1,3 @@
+language = "bash"
+run = "node Kahoot-Bot-Spam-main/bot.js"
+onboot = "cd Kahoot-Bot-Spam-main && npm install"
